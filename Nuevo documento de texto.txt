@@ -1,0 +1,4 @@
+En nuestro juego, el jugador tendrá un movimiento en dos dimensiones, sólamente podrá moverse de forma vertical y horizontal.
+Pensamos en tener 1 solo mapa, pero con diferentes islas, es decir que cuando el jugador esté en una de ellas, solamente podrá ver esta isla hasta el momento en que decida irse a un extremo y llegar a una isla nueva.
+Habiamos pensado en que si el tiburon llega a una determinada profundidad, su vida bajara el doble de lo normal. En esta idea tenemos dudas de si nos traerá problemas más adelante, pues aun no sabemos cómo hacerla.
+Otra duda que tenemos es si es mejor que el tiburon dure hasta 5 min o que su tiempo de vida dependa solo de los peces que coma, y a medida que pasa el tiempo su vida va a disminuir de una forma más rápida.
